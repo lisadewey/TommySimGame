@@ -27,3 +27,10 @@ C:\Users\lmdew\Downloads\MidTermMini-Project-master\MidTermMini-Project-master\O
 C:\Users\lmdew\Downloads\MidTermMini-Project-master\MidTermMini-Project-master\Objects2Multiple\obj\Debug\Objects2Multiple.csproj.CoreCompileInputs.cache
 C:\Users\lmdew\Downloads\MidTermMini-Project-master\MidTermMini-Project-master\Objects2Multiple\obj\Debug\Objects2Multiple.exe
 C:\Users\lmdew\Downloads\MidTermMini-Project-master\MidTermMini-Project-master\Objects2Multiple\obj\Debug\Objects2Multiple.pdb
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\TommySim\Objects2Multiple\bin\Debug\Objects2Multiple.exe.config
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\TommySim\Objects2Multiple\bin\Debug\Objects2Multiple.exe
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\TommySim\Objects2Multiple\bin\Debug\Objects2Multiple.pdb
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\TommySim\Objects2Multiple\obj\Debug\Objects2Multiple.csprojResolveAssemblyReference.cache
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\TommySim\Objects2Multiple\obj\Debug\Objects2Multiple.csproj.CoreCompileInputs.cache
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\TommySim\Objects2Multiple\obj\Debug\Objects2Multiple.exe
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\TommySim\Objects2Multiple\obj\Debug\Objects2Multiple.pdb
