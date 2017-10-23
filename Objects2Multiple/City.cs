@@ -5,7 +5,7 @@ namespace Objects2Multiple
 {
     class City
     {
-		// Test comment
+		// Testing again.
         private string name;
         private int day = 0;
 
