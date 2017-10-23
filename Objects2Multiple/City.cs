@@ -5,13 +5,7 @@ namespace Objects2Multiple
 {
     class City
     {
-<<<<<<< HEAD
-		// Testing again.
-=======
-        // Test comment to freak Lisa out
->>>>>>> b5b6c9139dc9f8c1c41214642a7cccdcb749924d
-
-			// Lisa is officially freaked out
+		// Kendell rocks! Git sucks!
         private string name;
         private int day = 0;
 
