@@ -106,13 +106,35 @@ namespace Objects2Multiple
             homeCity.Pause();
         }
 
-        public void LooseWater(int amount)
+        
+        //Spoil Food or  Water
+        public void SpoilFoodorWater(int amount)
         {
-            Console.WriteLine("Oops " + name + "lost " + amount + " gallons of water");
+            string[] spoilFoodorWater = new string[] { "water", "food" };
+            Random spoil = new Random();
+            int s = spoil.Next(0, 2);
+            string option = spoilFoodorWater[s];
 
-            homeCity.Water -= amount;
-            homeCity.PrintWater();
-            homeCity.Pause();
+            switch (option)
+            {
+                case "water":
+                    Console.WriteLine("Oops.. your village water has been infected..");
+                    Console.WriteLine(name + " lost " + amount + " gallons of water");
+                    homeCity.Water -= amount;
+                    homeCity.PrintWater();
+                    homeCity.Pause();
+                    break;
+
+                case "food":
+                    Console.WriteLine("Oops.. your village food has been infected..");
+                    Console.WriteLine(name + " lost " + amount + " bushels of food");
+                    homeCity.Food -= amount;
+                    homeCity.PrintFood();
+                    homeCity.Pause();
+                    break;
+            }
+
+
         }
 
         public void FindFood()
@@ -207,7 +229,7 @@ namespace Objects2Multiple
                     break;
                 case "disease":
                     Console.WriteLine(name + " got a " + choice);
-                    LooseWater(amount);
+                    SpoilFoodorWater(amount);
                     break;
                 case "barbarians":
                     Console.WriteLine(name + " was attacked by filthy " + choice);
