@@ -5,7 +5,7 @@ namespace Objects2Multiple
 {
     class City
     {
-        // Kendell rocks! Git sucks!
+       
         private string name;
         private int day = 0;
 

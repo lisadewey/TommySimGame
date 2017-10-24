@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-//Test comment
+
 namespace Objects2Multiple
 {
     class Person

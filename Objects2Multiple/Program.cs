@@ -9,7 +9,7 @@ namespace Objects2Multiple
             Console.WriteLine("Welcome to TommySim!");
             City c = new City(1);
 
-            //Tammy branch test
+           
 
         }
     }
